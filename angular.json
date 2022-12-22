@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "doctor-app"
+  "cli": {
+    "analytics": false
+  }
 }
